@@ -1,0 +1,16 @@
+%autojump
+
+#check weight
+j -s
+
+#autojump help
+j --help
+
+#jump to a directory
+j <name>
+
+#jump to a child directory
+jc <name>
+
+#open directory or file with file manager using autojump
+jo <name>
